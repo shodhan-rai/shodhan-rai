@@ -10,3 +10,7 @@
 shodhan-rai/shodhan-rai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<a href="https://www.holopin.io/@shodhanrai#">
+    <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-tumbler-hoodie-witch-eclipse.webp" alt="Holopin Hacktoberfest Badge" width="300"/>
+</a>
