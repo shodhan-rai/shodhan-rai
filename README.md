@@ -60,9 +60,8 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shodhan-rai&show_icons=true&locale=en&layout=compact" alt="shodhan-rai" /></p> -->
 
-<div align="center">
+<div align="center">  
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shodhan-rai&" alt="shodhan-rai" /></p>
-    <p><img src="https://github-readme-stats.vercel.app/api?username=shodhan-rai&show_icons=true&locale=en" alt="shodhan-rai" /></p>
 </div>
 
 
