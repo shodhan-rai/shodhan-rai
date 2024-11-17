@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Developing applications and gaining hands-on experience in web development.<br>📚 Currently learning Cybersecurity and improving my soft skills.<br>🎯 Goals: Secure an entry-level role to contribute to scalable solutions.<br>🎲 Fun fact: Passionate traveler and participant in Hacktoberfest.</p>
+<p align="left">✨ Developing applications and gaining hands-on experience in web development.<br>🎯 Goals: Secure an entry-level role to contribute to scalable solutions.<br>🎲 Fun fact: Passionate traveler and participant in Hacktoberfest.</p>
 
 
 ###
@@ -53,9 +53,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  
 </div>
 
 ###
