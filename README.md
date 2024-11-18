@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Developing applications and gaining hands-on experience in web development.<br>🎯 Goals: Secure an entry-level role to contribute to scalable solutions.<br>🎲 Fun fact: Passionate traveler and participant in Hacktoberfest.</p>
+<p align="left">✨ Developing applications and gaining hands-on experience in web development.<br>🎯 Goals: Secure an entry-level role to contribute to scalable solutions.</p>
 
 
 ###
