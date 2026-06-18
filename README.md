@@ -2,15 +2,13 @@
 
 ###
 
-<p align="left">My name is Shodhan Rai, and I'm a final-year Computer Science student from India.</p>
+<p align="left">My name is Shodhan Rai.</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
-
-<p align="left">✨ Developing applications and gaining hands-on experience in web development.<br>🎯 Goals: Secure an entry-level role to contribute to scalable solutions.</p>
 
 
 ###
